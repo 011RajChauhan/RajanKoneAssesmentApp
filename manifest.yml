@@ -1,7 +1,7 @@
 ---
 applications:
- - name: GetStartedJava
+ - name: RajanKoneAssesmentApp
    random-route: true
-   path: target/GetStartedJava.war
+   path: target/RajanKoneAssesmentApp.war
    memory: 256M
    instances: 1
